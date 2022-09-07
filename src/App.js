@@ -28,10 +28,10 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 
-const solAmount = 0.3
-const image = 'https://static9.depositphotos.com/1307373/1179/i/600/depositphotos_11794280-stock-photo-red-apple.jpg'
-const Title = 'Dragon Elements'
-const supply = 1110
+const solAmount = 1.45
+const image = 'https://media.discordapp.net/attachments/985774697918640138/1015825654698217492/178.png?width=610&height=610'
+const Title = 'Riff Rats'
+const supply = 3458
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
