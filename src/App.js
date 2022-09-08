@@ -28,10 +28,10 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 
-const solAmount = 0.33
-const image = 'https://media.discordapp.net/attachments/1012905174370627596/1012905777616404520/Gigachad_1.gif'
-const Title = 'Camp Solana'
-const supply = 10000
+const solAmount = 0.2
+const image = 'https://pbs.twimg.com/profile_images/1566002213742321665/R52YdjYS_400x400.jpg'
+const Title = 'DENIZENS OF DAVROS'
+const supply = 5555
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
