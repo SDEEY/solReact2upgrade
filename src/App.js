@@ -29,9 +29,9 @@ import imgTwitter from './icons8-twitter-50.png'
 
 
 const solAmount = 0.2
-const image = 'https://pbs.twimg.com/profile_images/1566002213742321665/R52YdjYS_400x400.jpg'
-const Title = 'DENIZENS OF DAVROS'
-const supply = 5555
+const image = 'https://media.discordapp.net/attachments/998065055390249070/1000723466720399440/Sneak_Peek_6.png?width=542&height=610'
+const Title = 'Angry Solana Cuties'
+const supply = 999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
