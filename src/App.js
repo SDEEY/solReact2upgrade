@@ -28,10 +28,10 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 
-const solAmount = 0.2
-const image = 'https://media.discordapp.net/attachments/998065055390249070/1000723466720399440/Sneak_Peek_6.png?width=542&height=610'
-const Title = 'Angry Solana Cuties'
-const supply = 999
+const solAmount = 1
+const image = 'https://media.discordapp.net/attachments/946018084693606412/1017080903111024660/Snoop.png?width=610&height=610'
+const Title = 'Stoned Shibas'
+const supply = 5420
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
