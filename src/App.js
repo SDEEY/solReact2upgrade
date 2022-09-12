@@ -29,9 +29,9 @@ import imgTwitter from './icons8-twitter-50.png'
 
 
 const solAmount = 1
-const image = 'https://media.discordapp.net/attachments/946018084693606412/1017080903111024660/Snoop.png?width=610&height=610'
-const Title = 'Stoned Shibas'
-const supply = 5420
+const image = 'https://pbs.twimg.com/profile_images/1557654539662249984/pVLKi2l8_400x400.jpg'
+const Title = 'CATastrophic'
+const supply = 8888
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
