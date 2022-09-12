@@ -28,10 +28,10 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 
-const solAmount = 1
-const image = 'https://pbs.twimg.com/profile_images/1557654539662249984/pVLKi2l8_400x400.jpg'
-const Title = 'CATastrophic'
-const supply = 8888
+const solAmount = 0
+const image = 'https://pbs.twimg.com/profile_images/1535430237747564545/o0_5JqLS_400x400.jpg'
+const Title = 'Beast Boy Club'
+const supply = 3333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
