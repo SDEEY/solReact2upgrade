@@ -28,10 +28,10 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 
-const solAmount = 0
-const image = 'https://pbs.twimg.com/profile_images/1535430237747564545/o0_5JqLS_400x400.jpg'
+const solAmount = 2.4
+const image = 'https://pbs.twimg.com/profile_images/1512847950678007820/9nqk5pW8_400x400.jpg'
 const Title = 'Beast Boy Club'
-const supply = 3333
+const supply = 3483
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
