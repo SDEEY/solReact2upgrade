@@ -28,10 +28,10 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 
-const solAmount = 0.2
-const image = 'https://pbs.twimg.com/profile_images/1550196698789576705/4WpJr63H_400x400.jpg'
-const Title = 'Primitive Degens'
-const supply = 4444
+const solAmount = 1.25
+const image = 'https://pbs.twimg.com/profile_images/1565355114243960833/J2DUS-by_400x400.jpg'
+const Title = 'Nasty Horses'
+const supply = 2222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
