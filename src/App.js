@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.069
-const image = 'https://pbs.twimg.com/profile_images/1570680412669898756/yNg3EUgY_400x400.jpg'
-const Title = 'Giyu NFT'
-const supply = 2177
+const solAmount = 0
+const image = 'https://pbs.twimg.com/media/Fbz12saaIAESd2o?format=jpg&name=medium'
+const Title = 'Cursed Oiran'
+const supply = 6666
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
