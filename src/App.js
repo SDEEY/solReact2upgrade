@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2
-const image = 'https://media.discordapp.net/attachments/1004361675375390720/1020371919234674769/unknown.png?width=588&height=590'
-const Title = 'Adopted Gorillas Club'
-const supply = 4782
+const solAmount = 0
+const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafkreifvh54ihsecro3tj6ur2mzgmxgiutqgh4j3l733pgst5rxowfxpdu.ipfs.dweb.link/'
+const Title = "The New Explorer's Club"
+const supply = 10000
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
