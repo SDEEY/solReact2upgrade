@@ -7,9 +7,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0
-const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafkreifvh54ihsecro3tj6ur2mzgmxgiutqgh4j3l733pgst5rxowfxpdu.ipfs.dweb.link/'
-const Title = "The New Explorer's Club"
-const supply = 10000
+const image = 'https://pbs.twimg.com/profile_images/1560561758829510657/7qpzNLCc_400x400.jpg'
+const Title = "Rookie Ferrets"
+const supply = 999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
