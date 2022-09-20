@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0
-const image = 'https://pbs.twimg.com/profile_images/1560561758829510657/7qpzNLCc_400x400.jpg'
-const Title = "Rookie Ferrets"
-const supply = 999
+const solAmount = 0.2
+const image = 'https://pbs.twimg.com/profile_images/1566740353658417152/bHjiTK27_400x400.jpg'
+const Title = "Dick Arts Club"
+const supply = 3333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
