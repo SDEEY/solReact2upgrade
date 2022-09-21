@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.2
-const image = 'https://pbs.twimg.com/profile_images/1558433746721939456/CgOslGSM_400x400.jpg'
-const Title = "DeKeepers"
-const supply = 333
+const solAmount = 0
+const image = 'https://media.discordapp.net/attachments/1021487923285209229/1021528076703764540/33b9a5a80655d0b67ace905a7a40c81b.jpg?width=590&height=590'
+const Title = "DinoSol"
+const supply = 222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
