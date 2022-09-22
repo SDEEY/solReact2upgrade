@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '1.2 / 1.4'
-const image = 'https://howrare.is/drop_logos/5938_5fluQZrs.jpg'
-const Title = "The Wagers"
-const supply = 4444
+const solAmount = '0.7'
+const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/seven_pfp_1663185774035.gif'
+const Title = "SEVEN"
+const supply = 777
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
