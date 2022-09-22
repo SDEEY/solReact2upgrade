@@ -7,9 +7,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0
-const image = 'https://media.discordapp.net/attachments/1021487923285209229/1021528076703764540/33b9a5a80655d0b67ace905a7a40c81b.jpg?width=590&height=590'
-const Title = "DinoSol"
-const supply = 222
+const image = 'https://media.discordapp.net/attachments/1018610732834750504/1018614948194168832/20220912_014135.jpg?width=490&height=490'
+const Title = "Dudely"
+const supply = 5500
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
