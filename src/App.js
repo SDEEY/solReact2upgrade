@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.25 / 0.35 / 0.4'
-const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/skeletons_daos_pfp_1664018709429.png'
-const Title = "Skeletons DAO"
-const supply = 999
+const solAmount = '0.01'
+const image = 'https://pbs.twimg.com/profile_images/1516056639379578885/Cd3jCnEx_400x400.jpg'
+const Title = "SolRockets"
+const supply = 777
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
