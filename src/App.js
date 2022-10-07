@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0'
-const image = 'https://media.discordapp.net/attachments/960586169333215243/1022228064995921950/Untitled_Artwork_194.jpg?width=590&height=590'
-const Title = "NYX LABS"
-const supply = 100
+const solAmount = '1.2'
+const image = 'https://pbs.twimg.com/profile_images/1555424789862289408/nMvbcFYS_400x400.jpg'
+const Title = "Evo Alpha"
+const supply = 127
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
