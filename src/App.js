@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '1.2'
-const image = 'https://pbs.twimg.com/profile_images/1555424789862289408/nMvbcFYS_400x400.jpg'
-const Title = "Evo Alpha"
-const supply = 127
+const solAmount = '0.5 / 1.1'
+const image = 'https://media.discordapp.net/attachments/1026189606313545808/1027631173133934603/376.png?width=590&height=590'
+const Title = "Vexed Apes Club"
+const supply = 271
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
