@@ -6,9 +6,9 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.4'
-const image = 'https://howrare.is/drop_logos/5936_XDqaUv4J.jpg'
-const Title = "Retro Glider"
+const solAmount = '0.015'
+const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/dont_mint_pfp_1665332939270.png'
+const Title = "RDONT MINT"
 const supply = 3333
 
 document.title = Title
