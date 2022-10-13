@@ -7,9 +7,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = '0.015'
-const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/dont_mint_pfp_1665332939270.png'
-const Title = "RDONT MINT"
-const supply = 3333
+const image = 'https://media.discordapp.net/attachments/1023385721161121792/1025477231503482920/84E42C62-C1BC-424D-8391-DC588AF4CF8F.jpg?width=610&height=610'
+const Title = "AiDragonsNFT"
+const supply = 333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
