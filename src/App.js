@@ -6,9 +6,9 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.45 / 0.55'
-const image = 'https://images-ext-1.discordapp.net/external/eWMYALT9xlAzBT8ugPeK9xaVjcW6p_I654bb4UdPRKQ/%3Falt%3Dmedia%26token%3D722d769c-81f4-4134-95fc-0dd90c7326f1/https/firebasestorage.googleapis.com/v0/b/launch-my-nft.appspot.com/o/Users%252F3TDWrks3RX3iedLisojZoX6JzxKKhYWsGUTqNJTENuwY%252FCollections%252FFwrvD7nRXQknNdA1bLYJ%252Fcover'
-const Title = "Not y00ts Young Club"
+const solAmount = '0.01'
+const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/lonfo_pfp_1664962883751.png'
+const Title = "LONFO"
 const supply = 222
 
 document.title = Title
