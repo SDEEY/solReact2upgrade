@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.1'
-const image = 'https://media.discordapp.net/attachments/1026129438682927134/1028725395400437760/Untitled149_20221009234244.png?width=610&height=610'
-const Title = "ALIEN NOVICE"
-const supply = 2222
+const solAmount = '0.45 / 0.55'
+const image = 'https://images-ext-1.discordapp.net/external/eWMYALT9xlAzBT8ugPeK9xaVjcW6p_I654bb4UdPRKQ/%3Falt%3Dmedia%26token%3D722d769c-81f4-4134-95fc-0dd90c7326f1/https/firebasestorage.googleapis.com/v0/b/launch-my-nft.appspot.com/o/Users%252F3TDWrks3RX3iedLisojZoX6JzxKKhYWsGUTqNJTENuwY%252FCollections%252FFwrvD7nRXQknNdA1bLYJ%252Fcover'
+const Title = "Not y00ts Young Club"
+const supply = 222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
