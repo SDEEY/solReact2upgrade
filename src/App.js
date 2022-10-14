@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.015'
-const image = 'https://media.discordapp.net/attachments/1023385721161121792/1025477231503482920/84E42C62-C1BC-424D-8391-DC588AF4CF8F.jpg?width=610&height=610'
-const Title = "AiDragonsNFT"
-const supply = 333
+const solAmount = '0.059'
+const image = 'https://howrare.is/drop_logos/6040_5EqrURL1.jpg'
+const Title = "BULL CLUB"
+const supply = 666
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
