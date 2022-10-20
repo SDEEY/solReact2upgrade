@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.01'
-const image = 'https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/lonfo_pfp_1664962883751.png'
-const Title = "LONFO"
-const supply = 222
+const solAmount = '0.2 / 0.3'
+const image = 'https://media.discordapp.net/attachments/977165765868412929/1032654230521126933/Broken_Crea.jpg?width=610&height=610'
+const Title = "ARCHEM"
+const supply = 1666
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
