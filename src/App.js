@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.25'
-const image = 'https://pbs.twimg.com/profile_images/1576557959328370690/R7EaQEvU_400x400.jpg'
-const Title = "Syke Monkez"
-const supply = 2500
+const solAmount = '0.65 / 0.95'
+const image = 'https://pbs.twimg.com/profile_images/1584560736990220288/yZeLlXSU_400x400.jpg'
+const Title = "𝐍𝐎𝐙𝐎𝐌𝐈"
+const supply = 5555
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
