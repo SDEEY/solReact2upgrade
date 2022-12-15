@@ -7,8 +7,8 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = '1'
-const image = 'https://pbs.twimg.com/profile_images/1575187558224564224/YimIV_nf_400x400.jpg'
-const Title = "DEFI SOCIETY"
+const image = 'https://pbs.twimg.com/profile_images/1601275250636988417/PkxdhAb4_400x400.jpg'
+const Title = "FOOTBULLZ"
 const supply = 2172
 
 document.title = Title
