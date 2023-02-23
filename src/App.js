@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '1'
-const image = 'https://media.discordapp.net/attachments/1029491625086431242/1034854956898992128/05.png?width=587&height=587'
-const Title = "FOOTBULLZ"
-const supply = 2172
+const solAmount = '0.5 / 0.75 / 1'
+const image = 'https://images-ext-1.discordapp.net/external/H2Ec0J4X8C8UzHTLuAPY--4ux1v6bjsqd38MMcNvAKc/https/img-cdn.magiceden.dev/rs%3Afill%3A400%3A400%3A0%3A0/plain/https%3A//creator-hub-prod.s3.us-east-2.amazonaws.com/dinosdao_pfp_1677163013686.png'
+const Title = "DINOS DAO"
+const supply = 211
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
