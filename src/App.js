@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.25'
-const image = 'https://pbs.twimg.com/profile_images/1627961717467619329/uGBdszKZ_400x400.jpg'
-const Title = "MOONY BEARS"
-const supply = 555
+const solAmount = '0'
+const image = 'https://pbs.twimg.com/profile_images/1577622959786790914/z8e1rPzR_400x400.jpg'
+const Title = "CCC | FREE MINT"
+const supply = 5000
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
