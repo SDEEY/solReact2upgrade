@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '2.5'
-const image = 'https://pbs.twimg.com/profile_images/1543613919821979648/W5IRgnmg_400x400.jpg'
-const Title = "Reign of Terror"
-const supply = 300
+const solAmount = '4.9'
+const image = 'https://pbs.twimg.com/profile_images/1566102630543261698/KepuBxb-_400x400.jpg'
+const Title = "Lowlife Forms"
+const supply = 3333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
