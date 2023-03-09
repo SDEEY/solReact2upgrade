@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0'
-const image = 'https://pbs.twimg.com/profile_images/1631704023119036432/bftgk4AO_400x400.jpg'
-const Title = "Solana Zombie Kittens"
-const supply = 888
+const solAmount = '2.5'
+const image = 'https://pbs.twimg.com/profile_images/1543613919821979648/W5IRgnmg_400x400.jpg'
+const Title = "Reign of Terror"
+const supply = 300
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
