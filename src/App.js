@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '4.9'
-const image = 'https://pbs.twimg.com/profile_images/1566102630543261698/KepuBxb-_400x400.jpg'
-const Title = "Lowlife Forms"
-const supply = 270
+const solAmount = '1'
+const image = 'https://pbs.twimg.com/profile_images/1626258551965650945/L71jfPwQ_400x400.jpg'
+const Title = "Skully Of Nova"
+const supply = 250
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
