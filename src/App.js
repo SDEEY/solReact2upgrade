@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.22'
-const image = 'https://pbs.twimg.com/profile_images/1625908990357164034/CBfvNvZ5_400x400.jpg'
-const Title = "MoonSeeker DAO"
-const supply = 40
+const solAmount = '0'
+const image = 'https://pbs.twimg.com/profile_images/1632018703825993729/RBGYSzZy_400x400.jpg'
+const Title = "Unic Gods"
+const supply = 777
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
