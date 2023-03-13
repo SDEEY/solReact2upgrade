@@ -7,9 +7,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = '0'
-const image = 'https://pbs.twimg.com/media/Fqkx6iNWYAA0U4O?format=jpg&name=4096x4096'
-const Title = "Unic Gods"
-const supply = 777
+const image = 'https://pbs.twimg.com/profile_images/1596735522940280833/_xQ6Ur-G_400x400.jpg'
+const Title = "Chipmunk Man"
+const supply = 177
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
