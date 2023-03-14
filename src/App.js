@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0'
-const image = 'https://pbs.twimg.com/profile_images/1596735522940280833/_xQ6Ur-G_400x400.jpg'
-const Title = "Chipmunk Man"
-const supply = 177
+const solAmount = '0.05'
+const image = 'https://pbs.twimg.com/profile_images/1633598139167825920/20rvV9qA_400x400.jpg'
+const Title = "BozoFox"
+const supply = 25
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
