@@ -9,7 +9,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = '0.05'
 const image = 'https://pbs.twimg.com/profile_images/1627109563659960321/GbL1mi8s_400x400.jpg'
 const Title = "The Alien"
-const supply = 333
+const supply = 55
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
