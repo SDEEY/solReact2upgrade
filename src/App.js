@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.169'
-const image = 'https://pbs.twimg.com/profile_images/1636460980950409223/KXOrAIv5_400x400.jpg'
-const Title = "SolHomies Hub"
-const supply = 1111
+const solAmount = '0'
+const image = 'https://pbs.twimg.com/profile_images/1638317114174865411/VqQqCEUw_400x400.jpg'
+const Title = "The Skinless"
+const supply = 155
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
