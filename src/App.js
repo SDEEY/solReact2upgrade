@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.03'
-const image = 'https://pbs.twimg.com/profile_images/1639524045572980737/vYbipFSI_400x400.jpg'
-const Title = 'Kings Of Da Rug'
-const supply = 3877
+const solAmount = '4'
+const image = 'https://pbs.twimg.com/media/FshsjjdWYAA9C6r?format=jpg&name=large'
+const Title = 'ODK'
+const supply = 84
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
