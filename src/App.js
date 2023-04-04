@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '4'
-const image = 'https://pbs.twimg.com/media/FshsjjdWYAA9C6r?format=jpg&name=large'
-const Title = 'ODK'
-const supply = 84
+const solAmount = '0.2'
+const image = 'https://pbs.twimg.com/profile_images/1641482456065880073/DWfA1_kc_400x400.jpg'
+const Title = 'Pokejimon'
+const supply = 50
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
