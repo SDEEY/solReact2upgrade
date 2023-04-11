@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.369'
-const image = 'https://pbs.twimg.com/profile_images/1585028096486514706/K_7fQj2e_400x400.jpg'
-const Title = 'Tribe Dragonz'
-const supply = 481
+const solAmount = 0
+const image = 'https://pbs.twimg.com/profile_images/1633187685459173376/Tub1L12B_400x400.jpg'
+const Title = 'secret monkey'
+const supply = 222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
