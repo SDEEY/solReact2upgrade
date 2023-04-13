@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1.69
-const image = 'https://pbs.twimg.com/profile_images/1597701799049314306/g96GChss_400x400.jpg'
-const Title = 'Faceless Labs'
-const supply = 2500
+const solAmount = 0.075
+const image = 'https://pbs.twimg.com/profile_images/1638197951670415360/haJcR7fq_400x400.jpg'
+const Title = 'Majestic Kitsune'
+const supply = 500
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
