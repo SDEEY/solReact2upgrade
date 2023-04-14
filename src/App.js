@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.075
-const image = 'https://pbs.twimg.com/profile_images/1638197951670415360/haJcR7fq_400x400.jpg'
-const Title = 'Majestic Kitsune'
-const supply = 500
+const solAmount = 2.77
+const image = 'https://pbs.twimg.com/profile_images/1603878927688163331/90ldtr7b_400x400.jpg'
+const Title = 'Mida DAO'
+const supply = 44
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
