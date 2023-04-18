@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2
-const image = 'https://pbs.twimg.com/profile_images/1614322272466276354/i9cL_0iO_400x400.jpg'
-const Title = 'ROBO RAMEN'
-const supply = 1477
+const solAmount = 5.5
+const image = 'https://pbs.twimg.com/profile_images/1643690160549158941/CKlwMSE8_400x400.jpg'
+const Title = 'NoHoomans'
+const supply = 2499
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
