@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0
-const image = 'https://pbs.twimg.com/profile_images/1645099925481607168/0cm7Hhi1_400x400.jpg'
-const Title = 'OHMYPUGS'
-const supply = 777
+const solAmount = 0.3
+const image = 'https://pbs.twimg.com/profile_images/1648282825982877697/fLIsFHfx_400x400.jpg'
+const Title = 'Block Bounty'
+const supply = 333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
