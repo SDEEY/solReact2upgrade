@@ -7,7 +7,7 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.2
-const image = 'https://nftcalendar.io/storage/uploads/2023/04/21/sollama-utilities_yhZ1hvCK44SKlsOR.png'
+const image = 'https://images-ext-2.discordapp.net/external/lA2a2SWdEvdvyEqIBh1aS656_GUx-K0mo5vD-xFGrQ8/https/nftcalendar.io/storage/uploads/2023/04/21/sollama-utilities_yhZ1hvCK44SKlsOR.png'
 const Title = 'Sollama Utilities'
 const supply = 444
 
