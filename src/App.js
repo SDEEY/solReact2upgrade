@@ -7,9 +7,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.2
-const image = 'https://pbs.twimg.com/profile_images/1614903751776550914/U-pioptY_400x400.jpg'
-const Title = 'LIONS'
-const supply = 4000
+const image = 'https://nftcalendar.io/storage/uploads/2023/04/21/sollama-utilities_yhZ1hvCK44SKlsOR.png'
+const Title = 'Sollama Utilities'
+const supply = 444
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
