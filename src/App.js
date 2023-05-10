@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 4
-const image = 'https://pbs.twimg.com/profile_images/1446787002318442502/zOKmMqR__400x400.jpg'
-const Title = 'CryptoDemons & Angels'
-const supply = 1111
+const solAmount = '0.2 / 0.5'
+const image = 'https://pbs.twimg.com/profile_images/1643893527154245632/Nrz8hFoV_400x400.jpg'
+const Title = 'ALORA EAGLES'
+const supply = 999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
