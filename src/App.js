@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.2 / 0.5'
-const image = 'https://pbs.twimg.com/profile_images/1643893527154245632/Nrz8hFoV_400x400.jpg'
-const Title = 'ALORA EAGLES'
-const supply = 999
+const solAmount = '1'
+const image = 'https://pbs.twimg.com/profile_images/1650221062183956484/Uyha1AIr_400x400.jpg'
+const Title = 'Monkey Madness'
+const supply = 55
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
