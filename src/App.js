@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '1'
-const image = 'https://pbs.twimg.com/profile_images/1650221062183956484/Uyha1AIr_400x400.jpg'
-const Title = 'Monkey Madness'
-const supply = 55
+const solAmount = '6.4'
+const image = 'https://pbs.twimg.com/profile_images/1636760452066684932/FQYuzihw_400x400.jpg'
+const Title = 'The Hoopas'
+const supply = 2480
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
