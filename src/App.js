@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.3'
-const image = 'https://pbs.twimg.com/profile_images/1626005544505864192/TLaBHUfw_400x400.jpg'
-const Title = 'Cheap Degens NFT'
-const supply = 4004
+const solAmount = '0'
+const image = 'https://pbs.twimg.com/profile_images/1657368305601064960/7USafYpK_400x400.jpg'
+const Title = 'Ice Cream'
+const supply = 111
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
