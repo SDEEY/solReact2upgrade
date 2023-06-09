@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0'
-const image = 'https://pbs.twimg.com/profile_images/1657368305601064960/7USafYpK_400x400.jpg'
-const Title = 'Ice Cream'
-const supply = 111
+const solAmount = '0.1'
+const image = 'https://pbs.twimg.com/profile_images/1659476568442281984/sf01HYZ3_400x400.jpg'
+const Title = 'YUUGEN ESTATE'
+const supply = 471
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
