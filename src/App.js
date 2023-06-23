@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = '1.88/2.37/2.69'
-const image = 'https://pbs.twimg.com/profile_images/1648376776371077120/Qdhl8CI4_400x400.jpg'
-const Title = 'Region79'
-const supply = 1971
+const solAmount = '0.09/0.19/0.29'
+const image = 'https://pbs.twimg.com/profile_images/1669436333826232334/4xPiTSoZ_400x400.jpg'
+const Title = 'WARGODS'
+const supply = 71
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
