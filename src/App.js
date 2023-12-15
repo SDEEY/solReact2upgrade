@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = "0.77"
-const image = 'https://pbs.twimg.com/profile_images/1651504949002399744/YrMgSSZc_400x400.jpg'
-const Title = 'JuiceIGaming by Juice.Bet '
-const supply = 48
+const solAmount = "0.4"
+const image = 'https://pbs.twimg.com/profile_images/1729412112970121216/WJko0vf2_400x400.jpg'
+const Title = 'ALL CAPS'
+const supply = 1799
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
