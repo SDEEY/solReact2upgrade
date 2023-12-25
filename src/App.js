@@ -361,7 +361,8 @@ function App() {
             //'https://rpc.ankr.com/solana',
             // NODE, {
             // confirmTransactionInitialTimeout: 60 * 1000,
-            'https://solana-api.syndica.io/access-token/pYZcv9VHe1vUNnhvQ7zAnXbwbkgbo1MGuHcMNNOwu0lQoQhoT6EKcPyrpVLZceJA/rpc',
+            //'https://solana-api.syndica.io/access-token/pYZcv9VHe1vUNnhvQ7zAnXbwbkgbo1MGuHcMNNOwu0lQoQhoT6EKcPyrpVLZceJA/rpc',
+            'https://svc.blockdaemon.com/solana/mainnet/native?apiKey=zpka_377aef80978b4e82817c2d34bad8471a_1ac6b38e',
             'confirmed'
             // }
         );
