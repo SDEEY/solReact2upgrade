@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = "0.18"
-const image = 'https://pbs.twimg.com/profile_images/1733631783290142720/aqpElfPI_400x400.jpg'
-const Title = 'Magic Dolls'
-const supply = 69
+const solAmount = "0"
+const image = 'https://pbs.twimg.com/profile_images/1719904580912209920/HjC8gK7Z_400x400.jpg'
+const Title = 'Uke Uke'
+const supply = 144
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
