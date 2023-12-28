@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = "1.25"
-const image = 'https://pbs.twimg.com/media/GCXkDVkXcAAJ_lx?format=jpg&name=large'
-const Title = 'SAGA'
-const supply = 844
+const solAmount = "0.18"
+const image = 'https://pbs.twimg.com/profile_images/1733631783290142720/aqpElfPI_400x400.jpg'
+const Title = 'Magic Dolls'
+const supply = 69
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
@@ -362,7 +362,7 @@ function App() {
             // NODE, {
             // confirmTransactionInitialTimeout: 60 * 1000,
             //'https://solana-api.syndica.io/access-token/pYZcv9VHe1vUNnhvQ7zAnXbwbkgbo1MGuHcMNNOwu0lQoQhoT6EKcPyrpVLZceJA/rpc',
-            'https://svc.blockdaemon.com/solana/mainnet/native?apiKey=zpka_377aef80978b4e82817c2d34bad8471a_1ac6b38e',
+            'https://svc.blockdaemon.com/solana/mainnet/native?apiKey=zpka_bf8144be880b4a67bfccf81f93e21827_34acb6d0',
             'confirmed'
             // }
         );
