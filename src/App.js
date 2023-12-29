@@ -6,10 +6,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = "0.04"
-const image = 'https://pbs.twimg.com/profile_images/1734231405423435777/EM15cpiz_400x400.jpg'
-const Title = 'Secret Skeleton Association'
-const supply = 189
+const solAmount = "0"
+const image = 'https://pbs.twimg.com/profile_images/1729568484521369601/oGpJ1nQF_400x400.jpg'
+const Title = 'Odyssey'
+const supply = 99
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
